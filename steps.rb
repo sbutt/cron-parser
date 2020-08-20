@@ -1,0 +1,1 @@
+puts (0..59).step(15).to_a.join(" ")
